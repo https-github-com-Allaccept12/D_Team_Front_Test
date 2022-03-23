@@ -9,5 +9,5 @@
 
 광고예정 - 타겟층인 디자이너님들이 모이는 커뮤니티 등에 가서 이 추첨이벤트와 함께 링크를 뿌림!
 
-dplustest-d15f5.web.app
+[테스트 하러가기 Click!](dplustest-d15f5.web.app)
 
